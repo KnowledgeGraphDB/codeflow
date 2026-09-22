@@ -18,13 +18,9 @@ coverage/
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
-.vscode/settings.json
 .claude/
 
 # Secrets and local credentials
-.env
-.env.*
 *.pem
 *.key
 *credentials*.json
@@ -40,3 +36,4 @@ docs/superpowers/
 *_old.*
 *_copy.*
 *.swp
+config.bat
